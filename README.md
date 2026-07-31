@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mahmoud Mot
 
-<!--
-**mahmoud-js/Mahmoud-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring JavaScript Developer
 
-Here are some ideas to get you started:
+Bachelor of Information Technology (IT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a self-taught JavaScript developer interested in Frontend Development and Software Engineering.
+
+## Skills
+
+- JavaScript
+- HTML5
+- CSS3
+- React.js (Learning)
+- Git & GitHub
+
+## Projects
+
+### Todo App
+A task management web application built with HTML, CSS, and JavaScript.
+
+GitHub:
+https://github.com/mahmoud-js/Todo-app
+
+## Career Goal
+
+Looking for Software Engineering Internship opportunities.
