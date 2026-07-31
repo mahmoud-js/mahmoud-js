@@ -1,6 +1,6 @@
-Mahmoud Motahari
+#Mahmoud Motahari
 
-Aspiring JavaScript Developer | Frontend Developer
+#Aspiring JavaScript Developer | Frontend Developer
 
 🎓 Bachelor of Information Technology (IT)
 
