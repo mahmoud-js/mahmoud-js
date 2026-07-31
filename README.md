@@ -1,6 +1,6 @@
-#Mahmoud Motahari
+# Mahmoud Motahari
 
-#Aspiring JavaScript Developer | Frontend Developer
+Aspiring JavaScript Developer | Frontend Developer
 
 🎓 Bachelor of Information Technology (IT)
 
@@ -40,7 +40,7 @@ Features:
 - Interactive user interface
 
 GitHub:
-https://github.com/mahmoud-js/Todo-app
+https://github.com/mahmoud-js/todo-App-JavaScript
 
 Weather App
 
@@ -53,7 +53,7 @@ Features:
 - Practice working with external APIs
 
 GitHub:
-https://github.com/mahmoud-js/weatherApp
+https://github.com/mahmoud-js/Weather-App-JavaScript
 
 Career Objective
 
