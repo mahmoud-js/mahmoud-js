@@ -1,24 +1,38 @@
-# Mahmoud Motahari
 
-Aspiring JavaScript Developer | Frontend Developer
+#Mahmoud Motahari
 
-🎓 Bachelor of Information Technology (IT)
+Web Developer Intern Candidate | JavaScript Developer
 
-I am a JavaScript developer with a Bachelor's degree in Information Technology (IT), interested in Frontend Development and Software Engineering. I enjoy building web applications, solving problems, and improving my skills through practical projects.
+📍 Iran
+📧 mah9421400@gmail.com
+💻 GitHub: https://github.com/mahmoud-js
+🔗 LinkedIn: https://www.linkedin.com/in/mah-mod-997150417
 
-Skills
+---
 
-Programming Languages
+PROFESSIONAL SUMMARY
 
-- JavaScript
+Motivated and self-taught web developer with a Bachelor's degree in Information Technology (IT). I have an intermediate-level understanding of HTML, CSS, and JavaScript and have built several small web projects for practice. I am currently learning React and looking for an internship opportunity where I can gain practical experience, improve my development skills, and learn from an experienced team.
 
-Frontend Technologies
+---
 
-- HTML5
-- CSS3
-- JavaScript DOM Manipulation
+EDUCATION
+
+Bachelor of Information Technology (IT)
+Completed
+
+---
+
+TECHNICAL SKILLS
+
+Frontend
+
+- HTML5 — Intermediate
+- CSS3 — Intermediate
+- JavaScript — Intermediate
+- DOM Manipulation
 - Responsive Web Design
-- React.js (Learning)
+- React.js — Currently Learning
 
 Tools
 
@@ -26,46 +40,60 @@ Tools
 - GitHub
 - Visual Studio Code
 
-Projects
+Other
+
+- Basic understanding of REST APIs
+- Basic problem-solving skills
+- Basic understanding of Data Structures and Algorithms
+
+---
+
+PROJECTS
 
 Todo App
 
-A task management web application built with HTML, CSS, and JavaScript.
+HTML, CSS, JavaScript
 
-Features:
+GitHub: https://github.com/mahmoud-js/todo-App-JavaScript
 
-- Add tasks
-- Delete tasks
-- Manage tasks dynamically
-- Interactive user interface
-
-GitHub:
-https://github.com/mahmoud-js/todo-App-JavaScript
+- Built a simple task management web application using HTML, CSS, and JavaScript.
+- Implemented adding and deleting tasks.
+- Used JavaScript DOM manipulation to make the application interactive.
+- Practiced JavaScript fundamentals and frontend development.
 
 Weather App
 
-A weather application built with JavaScript using API integration.
+HTML, CSS, JavaScript
 
-Features:
+GitHub: https://github.com/mahmoud-js/Weather-App-JavaScript
 
-- Fetch weather data from an API
-- Display weather information
-- Practice working with external APIs
+- Built a simple weather application using HTML, CSS, and JavaScript.
+- Practiced working with JavaScript and displaying dynamic information.
+- Improved understanding of frontend development and working with web data.
 
-GitHub:
-https://github.com/mahmoud-js/Weather-App-JavaScript
+Expense List App
 
-Career Objective
+HTML, CSS, JavaScript
 
-Seeking a Software Engineering Internship opportunity where I can contribute to real-world projects, learn from experienced developers, and continue growing as a frontend developer.
+GitHub: https://github.com/mahmoud-js/Expense-List-App--javascript-
 
-Contact
+- Built a simple expense tracking application using HTML, CSS, and JavaScript.
+- Practiced handling user input and displaying information dynamically.
+- Improved JavaScript and DOM manipulation skills through the project.
 
-GitHub:
-https://github.com/mahmoud-js
+---
 
-LinkedIn:
-https://www.linkedin.com/in/mah-mod-997150417
+SOFT SKILLS
 
-Email:
-mah9421400@gmail.com
+- Fast Learner
+- Willingness to Learn
+- Problem Solving
+- Self-Motivated
+- Adaptability
+- Team Collaboration
+
+---
+
+CAREER OBJECTIVE
+
+Seeking a Web Developer Internship where I can gain practical experience, work on real-world projects, learn from experienced developers, and continue improving my frontend development skills.
