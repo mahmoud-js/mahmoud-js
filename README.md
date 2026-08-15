@@ -1,8 +1,7 @@
 
 #Mahmoud Motahari
 
-Web Developer Intern Candidate | JavaScript Developer
-
+Frontend Developer | JavaScript Developer
 📍 Iran
 📧 mah9421400@gmail.com
 💻 GitHub: https://github.com/mahmoud-js
