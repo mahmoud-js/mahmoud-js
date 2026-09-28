@@ -32,6 +32,7 @@ Frontend
 - DOM Manipulation
 - Responsive Web Design
 - React.js — Currently Learning
+- SQL- Intermediate 
 
 Tools
 
