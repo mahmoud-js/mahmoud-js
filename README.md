@@ -1,99 +1,83 @@
+# Hi, I'm Mahmoud 👋
 
-#Mahmoud 
+**Frontend Developer | JavaScript Developer**  
+📍 Iran  
+📧 [mah9421400@gmail.com](mailto:mah9421400@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mah-mod-997150417) · 💻 [GitHub](https://github.com/mahmoud-js)
 
-Frontend Developer | JavaScript Developer
-📍 Iran
-📧 mah9421400@gmail.com
-💻 GitHub: https://github.com/mahmoud-js
-🔗 LinkedIn: https://www.linkedin.com/in/mah-mod-997150417
+## About Me
 
----
+I'm a self-taught frontend developer with a Bachelor's degree in Information Technology. I have an intermediate understanding of HTML, CSS, and JavaScript, and I enjoy building small web applications to practice and improve my skills.
 
-PROFESSIONAL SUMMARY
+I'm currently learning React and improving my frontend development skills by working on personal projects.
 
-Motivated and self-taught web developer with a Bachelor's degree in Information Technology (IT). I have an intermediate-level understanding of HTML, CSS, and JavaScript and have built several small web projects for practice. I am currently learning React and looking for an internship opportunity where I can gain practical experience, improve my development skills, and learn from an experienced team.
+## Tech Stack
 
----
-
-EDUCATION
-
-Bachelor of Information Technology (IT)
-Completed
-
----
-
-TECHNICAL SKILLS
-
-Frontend
-
+**Frontend**
 - HTML5 — Intermediate
 - CSS3 — Intermediate
 - JavaScript — Intermediate
 - DOM Manipulation
 - Responsive Web Design
-- React.js — Currently Learning
-- SQL- Intermediate 
+- React.js — Currently learning
+- SQL — Intermediate
 
-Tools
-
+**Tools**
 - Git
 - GitHub
 - Visual Studio Code
 
-Other
-
+**Other**
 - Basic understanding of REST APIs
 - Basic problem-solving skills
 - Basic understanding of Data Structures and Algorithms
 
----
+## Projects
 
-PROJECTS
+### Todo App
+HTML, CSS, JavaScript  
+🔗 [View on GitHub](https://github.com/mahmoud-js/todo-App-JavaScript)
 
-Todo App
-
-HTML, CSS, JavaScript
-
-GitHub: https://github.com/mahmoud-js/todo-App-JavaScript
-
-- Built a simple task management web application using HTML, CSS, and JavaScript.
+- Built a simple task management web app using HTML, CSS, and JavaScript.
 - Implemented adding and deleting tasks.
-- Used JavaScript DOM manipulation to make the application interactive.
+- Used JavaScript DOM manipulation to make the app interactive.
 - Practiced JavaScript fundamentals and frontend development.
 
-Weather App
+### Weather App
+HTML, CSS, JavaScript  
+🔗 [View on GitHub](https://github.com/mahmoud-js/Weather-App-JavaScript)
 
-HTML, CSS, JavaScript
+- Built a simple weather app using HTML, CSS, and JavaScript.
+- Practiced displaying dynamic information with JavaScript.
+- Improved my understanding of frontend development and working with web data.
 
-GitHub: https://github.com/mahmoud-js/Weather-App-JavaScript
+### Expense List App
+HTML, CSS, JavaScript  
+🔗 [View on GitHub](https://github.com/mahmoud-js/Expense-List-App--javascript-)
 
-- Built a simple weather application using HTML, CSS, and JavaScript.
-- Practiced working with JavaScript and displaying dynamic information.
-- Improved understanding of frontend development and working with web data.
-
-Expense List App
-
-HTML, CSS, JavaScript
-
-GitHub: https://github.com/mahmoud-js/Expense-List-App--javascript-
-
-- Built a simple expense tracking application using HTML, CSS, and JavaScript.
+- Built a simple expense tracking app using HTML, CSS, and JavaScript.
 - Practiced handling user input and displaying information dynamically.
-- Improved JavaScript and DOM manipulation skills through the project.
+- Improved my JavaScript and DOM manipulation skills.
 
----
+## Soft Skills
 
-SOFT SKILLS
-
-- Fast Learner
-- Willingness to Learn
-- Problem Solving
-- Self-Motivated
+- Fast learner
+- Willingness to learn
+- Problem solving
+- Self-motivated
 - Adaptability
-- Team Collaboration
+- Team collaboration
 
----
+## Currently
 
-CAREER OBJECTIVE
+- Learning React
+- Building small frontend projects
+- Improving my JavaScript and DOM manipulation skills
 
-Seeking a Web Developer Internship where I can gain practical experience, work on real-world projects, learn from experienced developers, and continue improving my frontend development skills.
+## Contact
+
+- 📧 Email: [mah9421400@gmail.com](mailto:mah9421400@gmail.com)
+- 🔗 LinkedIn: [mah-mod-997150417](https://www.linkedin.com/in/mah-mod-997150417)
+- 💻 GitHub: [mahmoud-js](https://github.com/mahmoud-js)
+
+Thanks for visiting my profile!
