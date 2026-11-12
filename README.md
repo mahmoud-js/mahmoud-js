@@ -1,7 +1,7 @@
 # Hi, I'm Mahmoud 👋
 
 **Frontend Developer | JavaScript Developer**  
-📍 Iran  
+
 📧 [mah9421400@gmail.com](mailto:mah9421400@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mah-mod-997150417) · 💻 [GitHub](https://github.com/mahmoud-js)
 
